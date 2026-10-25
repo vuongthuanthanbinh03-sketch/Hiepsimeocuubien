@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trợ Lý Thiết Kế Thử Thách Tin Học \u0026 Công Nghệ Tiểu Học",
+  "description": "Nền tảng sư phạm hỗ trợ giáo viên tiểu học thiết kế thử thách học tập phân hóa 3 mức (Khởi động, Vận dụng, Sáng tạo), câu hỏi gợi mở sửa lỗi, Rubric 4 tiêu chí và phiếu quan sát theo CT GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
